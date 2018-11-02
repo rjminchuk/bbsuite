@@ -1,7 +1,7 @@
 # bbsuite
 A barebones, command line approach to unit testing JavaScript. 
 
-[Blog Post](https://github.com/rjminchuk/Programming-Notes/blob/develop/md/jsTests.md) | Cross opperating system unit testing for JS
+[Blog Post - RichMinchuk.io](https://richminchuk.io/unit-testing-on-macos-windows) | Unit Testing on MacOS/Windows
 
 # todo
 - refactor how I extend objects....
